@@ -1,0 +1,14 @@
+#results {
+    display:none;
+  }
+
+  * {
+    color:blueviolet;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+  }
+
+  .bg-dark {
+    background-image: url("backg2.jpg");
+    background-size: cover;
+  }
